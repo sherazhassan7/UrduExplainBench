@@ -1,0 +1,31 @@
+﻿code,grade,subject,topic_english,topic_urdu
+P1,6,Physics,Energy: forms and how it converts,توانائی کی اقسام اور ان کی تبدیلیاں
+P2,8,Physics,Reflection of light and images in plane mirrors,انعکاسِ نور اور ہموار آئینے میں عکس
+P3,7,Physics,"Sound waves: pitch, loudness, echo",آواز کی لہریں: پچ، شدت اور بازگشت
+P4,9,Physics,Pressure in liquids and Pascal's principle,مائعات میں دباؤ اور پاسکل کا قانون
+P5,9,Physics,Newton's three laws of motion,نیوٹن کے حرکت کے تین قوانین
+P6,9,Physics,"Distance vs displacement, speed vs velocity",فاصلہ اور جابجائی، رفتار اور سمتی رفتار
+P7,10,Physics,Ohm's law and simple electric circuits,اوہم کا قانون اور سادہ برقی سرکٹ
+P8,10,Physics,Electromagnetic induction,برقی مقناطیسی القا
+P9,10,Physics,Refraction and image formation by convex lenses,انعطافِ نور اور محدب عدسے سے عکس کی تشکیل
+P10,10,Physics,"Radioactivity: alpha, beta and gamma radiation",تابکاری: الفا، بیٹا اور گاما شعاعیں
+C1,7,Chemistry and biology,Photosynthesis,ضیائی تالیف
+C2,6,Chemistry and biology,States of matter and changes of state,مادے کی حالتیں اور حالت کی تبدیلیاں
+C3,6,Chemistry and biology,Plant cell vs animal cell structure,نباتاتی خلیہ اور حیوانی خلیہ کی ساخت کا فرق
+C4,8,Chemistry and biology,"Acids, bases and neutralization",تیزاب، اساسیں اور غیر جانبداری
+C5,6,Chemistry and biology,The human digestive system,انسانی نظامِ ہضم
+C6,7,Chemistry and biology,"Atomic structure: protons, neutrons, electrons",ایٹم کی ساخت: پروٹون، نیوٹرون اور الیکٹران
+C7,8,Chemistry and biology,The periodic table: groups and periods,دورانی جدول: گروہ اور ادوار
+C8,9,Chemistry and biology,Ionic vs covalent bonding,آیونی اور اشتراکی بندھن
+C9,9,Chemistry and biology,Enzymes and how they speed up reactions,خامرے اور کیمیائی تعاملات کی رفتار بڑھانا
+C10,10,Chemistry and biology,Mendelian inheritance and Punnett squares,مینڈل کے وراثتی قوانین اور پنٹ اسکوائر
+M1,6,Mathematics,Why the product of two negative numbers is positive,دو منفی اعداد کا حاصلِ ضرب مثبت کیوں ہوتا ہے
+M2,6,Mathematics,Ratio and rate in everyday problems,نسبت اور شرح روزمرہ مسائل میں
+M3,7,Mathematics,"Simplifying algebraic expressions, collecting like terms",الجبری عبارات کو سادہ کرنا، ہم نوع اجزاء کو جمع کرنا
+M4,7,Mathematics,Solving linear equations in one variable,ایک متغیر والی خطی مساوات حل کرنا
+M5,8,Mathematics,The Pythagoras theorem and why it works,فیثاغورس کا قضیہ اور یہ کیوں درست ہے
+M6,7,Mathematics,Area and circumference of a circle,دائرے کا رقبہ اور محیط
+M7,9,Mathematics,Factorizing quadratic expressions,دو درجی عبارات کی عامل بندی
+M8,10,Mathematics,The quadratic formula and the discriminant,دو درجی مساوات کا فارمولا اور امتیازی مقدار
+M9,9,Mathematics,Trigonometric ratios in right-angled triangles,قائمہ الزاویہ مثلث میں مثلثاتی نسبتیں
+M10,8,Mathematics,Probability of simple events,سادہ واقعات کا احتمال

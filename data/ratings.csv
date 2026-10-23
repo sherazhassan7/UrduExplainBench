@@ -1,0 +1,241 @@
+﻿rater,uid,topic,model,language,conceptual_clarity,grade_appropriateness,pedagogical_structure,terminology,language_quality,rater_note
+R1,C10_en_B,C10,Llama-3.3-70B,English,5.0,4.0,5.0,5.0,5.0,"Really well explained, use of example is appreciated "
+R1,C7_ur_C,C7,Llama-3.1-8B,Urdu,4.0,4.0,4.0,3.0,3.0,
+R1,C9_ur_B,C9,Llama-3.3-70B,Urdu,3.0,5.0,2.0,4.0,5.0,"Keeping in mind the assigned word limit, repeating a concept stated earlier with zero development was unnecessary "
+R1,M2_en_B,M2,Llama-3.3-70B,English,3.0,4.0,3.0,4.0,4.0,The explanation seems a bit rushed
+R1,P7_en_A,P7,GPT-4o,English,5.0,5.0,4.0,5.0,3.0,Formatting for the equation makes it hard to understand so it should be done simply but the rest is good
+R1,M10_ur_B,M10,Llama-3.3-70B,Urdu,3.0,2.0,3.0,2.0,3.0,"The wording used is way too difficult for an eighth grader, even im having a hard time deciphering what they mean."
+R1,C9_en_C,C9,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,Great how a practical example and an example related to concept were both used. The summary at the end is really helpful too
+R1,P4_en_B,P4,Llama-3.3-70B,English,4.0,4.0,5.0,5.0,5.0,The multiple examples help in understanding 
+R1,P1_ur_A,P1,GPT-4o,Urdu,4.0,3.0,4.0,3.0,3.0,I did not unde the mening of the word tawanai until i got to the end. 
+R1,C6_en_A,C6,GPT-4o,English,4.0,5.0,5.0,5.0,5.0,Another example coulve been more well suited for the concept addressed. This one does the job but its not very clear in doing so and could be a bit harder to understand for someone trying to learn it. Its an intimidating example of sorts.
+R1,P4_en_A,P4,GPT-4o,English,3.0,5.0,4.0,4.0,5.0,Example needs to be changed. Hydraulic press does the job but theres too many factors to be addressed that come along with it that can sideline the learners mind out of focus for what really needs it. An example of a bottle of water or so could do a better job
+R1,M8_ur_B,M8,Llama-3.3-70B,Urdu,1.0,5.0,3.0,2.0,1.0,"This should all be in english cuz no one, no matter their grade level, is going to understand this. Maths should always be in english as no one is familiar with arithmetic being done in urdu. The vocabulary used is also quiet difficult, even I barely understand it."
+R1,M9_ur_A,M9,GPT-4o,Urdu,0.0,5.0,2.0,3.0,0.0,"One shouldn’t ever explain trigonometric ratios in urdu. The vocabulary, dictionary whatever becomes way too difficult to understand in urdu as its not very well suited towards mathematical concepts, be it this or another."
+R1,M3_en_A,M3,GPT-4o,English,4.0,4.0,3.0,5.0,4.0,I think that with the correct formatting the explanation is pretty good. The response walks the student through the whole process which is admirable. I do believe its possible that in some places this concept could be addressed a little earlier than seventh grade but in most it is done at the start
+R1,C8_ur_A,C8,GPT-4o,Urdu,4.0,5.0,4.0,5.0,5.0,
+R1,M9_en_B,M9,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,5.0,"Amazing response, everything is explained very clearly and in a way thats really understandable. Its easy to visualise while reading and comprehend exactly whats being referred to."
+R1,M5_ur_B,M5,Llama-3.3-70B,Urdu,3.0,2.0,3.0,3.0,3.0,Words are way too complicated and difficult to comprehend 
+R1,C8_ur_B,C8,Llama-3.3-70B,Urdu,4.0,3.0,4.0,3.0,4.0,Words are a little complicated 
+R1,C3_en_C,C3,Llama-3.1-8B,English,5.0,3.0,5.0,4.0,4.0,"A sixth grader should most likely not approach this topic with this much detail. I think some of the meanings are a bit more unnecessary for the grade level. In sixth grade a student should only be aware of some of the main components in it that form it. The example was good and the concept is taught well along with the hint of friendliness at the start, this is a good response. Some information should be exempted from here but the rest is good."
+R1,C3_en_B,C3,Llama-3.3-70B,English,5.0,4.0,5.0,5.0,5.0,"Might not be the best grade fit as i believe some of the information here the child gets exposed to at a but of a higher level, for example seventh grade. The teaching is really good, so is the example used, the tone is friendly while maintaining a formal tone. Could perhaps not refer to the student as student but something less awkward. Referring to the user as student is okay but its better if a slightly less formal referring is used. Maybe call them by their name if you have access to the information "
+R1,P7_ur_A,P7,GPT-4o,Urdu,4.0,4.0,4.0,5.0,3.0,
+R1,M6_ur_B,M6,Llama-3.3-70B,Urdu,5.0,4.0,5.0,5.0,5.0,Very well explained and meaning clarified too
+R1,C3_ur_B,C3,Llama-3.3-70B,Urdu,3.0,3.0,4.0,4.0,4.0,
+R1,M2_en_C,M2,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R1,C5_en_C,C5,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R1,P4_ur_C,P4,Llama-3.1-8B,Urdu,4.0,4.0,3.0,4.0,4.0,
+R1,C6_en_B,C6,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,5.0,
+R1,P8_en_C,P8,Llama-3.1-8B,English,4.0,4.0,4.0,5.0,5.0,
+R1,C1_en_B,C1,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,5.0,
+R1,P4_ur_B,P4,Llama-3.3-70B,Urdu,5.0,4.0,4.0,3.0,4.0,
+R1,C3_ur_C,C3,Llama-3.1-8B,Urdu,,,,,,
+R1,C9_ur_A,C9,GPT-4o,Urdu,5.0,5.0,5.0,5.0,5.0,
+R1,M9_en_C,M9,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R1,M3_ur_A,M3,GPT-4o,Urdu,4.0,4.0,4.0,4.0,4.0,
+R1,M1_en_B,M1,Llama-3.3-70B,English,3.0,4.0,4.0,5.0,5.0,
+R1,C9_en_A,C9,GPT-4o,English,4.0,5.0,5.0,5.0,5.0,
+R1,M8_ur_C,M8,Llama-3.1-8B,Urdu,4.0,4.0,4.0,4.0,4.0,
+R1,C8_ur_C,C8,Llama-3.1-8B,Urdu,4.0,4.0,4.0,4.0,4.0,
+R1,M2_ur_B,M2,Llama-3.3-70B,Urdu,3.0,3.0,4.0,4.0,4.0,
+R1,M5_ur_C,M5,Llama-3.1-8B,Urdu,3.0,2.0,3.0,3.0,4.0,Words are way too complicated and difficult to comprehend 
+R1,C10_ur_B,C10,Llama-3.3-70B,Urdu,3.0,4.0,3.0,3.0,4.0,
+R1,M6_en_B,M6,Llama-3.3-70B,English,5.0,5.0,4.0,4.0,5.0,
+R1,P2_ur_B,P2,Llama-3.3-70B,Urdu,3.0,3.0,3.0,3.0,3.0,the words are too complicated
+R1,C9_en_B,C9,Llama-3.3-70B,English,5.0,5.0,5.0,4.0,5.0,
+R1,M10_en_B,M10,Llama-3.3-70B,English,4.0,3.0,4.0,5.0,5.0,
+R1,M8_en_C,M8,Llama-3.1-8B,English,4.0,3.0,4.0,3.0,4.0,Better known or introduced in ninth plus terminology is a bit difficult 
+R1,P1_en_A,P1,GPT-4o,English,5.0,3.0,5.0,4.0,4.0,"A bit too much for a sixth grader, especially the energy conversion part."
+R1,P3_ur_C,P3,Llama-3.1-8B,Urdu,3.0,3.0,4.0,4.0,4.0,the words are too complicated for 9 7th grader
+R1,C2_en_C,C2,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R1,M4_en_A,M4,GPT-4o,English,3.0,5.0,4.0,5.0,5.0,Overall acceptable and basic explanation and is sufficient for the grade level 
+R1,C9_ur_C,C9,Llama-3.1-8B,Urdu,4.0,4.0,5.0,4.0,4.0,It would have been better if the words had been defined first before using them consistently 
+R1,C6_ur_A,C6,GPT-4o,Urdu,4.0,5.0,5.0,4.0,4.0,Explains well and is cohesive and the examples given are also relatable and memorable at the same time 
+R1,P4_en_C,P4,Llama-3.1-8B,English,4.0,4.0,5.0,4.0,5.0,Nice formatting of the concept with examples that essentially solidify the concept.The tone is also direct but welcoming 
+R1,M2_ur_C,M2,Llama-3.1-8B,Urdu,5.0,5.0,5.0,5.0,5.0,math is hard to understand in urdu but this approach is plausible as they first define eaxh term before interlinking them
+R1,M9_en_A,M9,GPT-4o,English,2.0,3.0,4.0,3.0,4.0,System error that make it hard to understand the math that is crucial to understand this concept . If that is solved it is a good basic explanation 
+R1,M5_en_C,M5,Llama-3.1-8B,English,4.0,4.0,5.0,5.0,5.0,"Relevant overall, although a few details could be more explained and proper examples should have been utilised to further strengthen reasoning "
+R1,P2_en_B,P2,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,4.0,an effective response to cater to the understanding of children of grade 8 further helping them grasp the concept well as daily life examples are also included 
+R1,C8_en_A,C8,GPT-4o,English,5.0,5.0,5.0,5.0,5.0,The response addresses the task effectively and stays relevant throughout
+R1,P7_ur_C,P7,Llama-3.1-8B,Urdu,4.0,4.0,4.0,3.0,3.0,It is hard to remember physics especially when difficult urdu words are used but the core idea is clear 
+R1,C6_ur_B,C6,Llama-3.3-70B,Urdu,3.0,3.0,3.0,4.0,4.0,"The response is understandable overall, but the use of Urdu and some translation like phrasing reduce clarity and make certain sections feel less natural and harder to grasp "
+R1,C1_ur_B,C1,Llama-3.3-70B,Urdu,4.0,3.0,4.0,4.0,4.0,Accidental japanese at the end that makes it unclear
+R1,C2_ur_C,C2,Llama-3.1-8B,Urdu,4.0,4.0,4.0,4.0,4.0,this approach is appreciated as it is quite simple but again definition plus english linking would've further improved this 
+R1,P3_en_C,P3,Llama-3.1-8B,English,5.0,4.0,3.0,5.0,5.0,"The response is generally effective, though some points could be developed further"
+R1,M8_en_B,M8,Llama-3.3-70B,English,4.0,4.0,3.0,3.0,4.0,I feel the terms should each be defined separately to help cnnect everthing together 
+R1,C8_en_B,C8,Llama-3.3-70B,English,5.0,5.0,4.0,5.0,5.0,A good example of a response that is focused on highlighted key aspects in a efficient manner. It is coherent and consistently supported as well 
+R1,M9_ur_C,M9,Llama-3.1-8B,Urdu,3.0,3.0,3.0,3.0,4.0,
+R1,M2_ur_A,M2,GPT-4o,Urdu,4.0,4.0,5.0,5.0,4.0,Fundamentally explains the concept with relevant examples as well 
+R1,M4_ur_A,M4,GPT-4o,Urdu,3.0,2.0,4.0,3.0,2.0,For the grade level may be hard to follow and remember for application 
+R1,M9_ur_B,M9,Llama-3.3-70B,Urdu,4.0,3.0,3.0,3.0,3.0,employing simplex vocabulary vastly makes understanding the concept easier but it is not done substantially here 
+R1,M2_en_A,M2,GPT-4o,English,5.0,5.0,4.0,5.0,5.0,Easy to grasp and also remember 
+R1,C5_ur_C,C5,Llama-3.1-8B,Urdu,4.0,3.0,3.0,4.0,4.0,might have complex terms that a grade 6 student might have trouble. registering which makes it hard to understand the conceot fully 
+R1,P4_ur_A,P4,GPT-4o,Urdu,5.0,5.0,4.0,5.0,4.0,The concept is delivered well but may require shorter sentences to be more impactful
+R1,P1_en_C,P1,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,4.0,Fits the grade level but a bit more complex terms would have been more appropriate 
+R1,C8_en_C,C8,Llama-3.1-8B,English,5.0,5.0,4.0,5.0,5.0,Another remarkable example of explanation with effective organisation 
+R1,P7_en_C,P7,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,exceptional effort is made to simplify the concept and deliver it in a way that students remember and understand
+R1,P1_ur_C,P1,Llama-3.1-8B,Urdu,4.0,4.0,4.0,4.0,3.0,sounds translated at places but good effort to simplify it for the grade level 
+R1,M5_en_B,M5,Llama-3.3-70B,English,5.0,5.0,3.0,4.0,4.0,it explains the conceot well but could have been done in a more simpler way with less use of omplex sentences
+R1,M1_ur_B,M1,Llama-3.3-70B,Urdu,5.0,4.0,5.0,5.0,4.0,easy to follow and build up understanding slowly but effectively 
+R1,P8_ur_C,P8,Llama-3.1-8B,Urdu,3.0,4.0,4.0,4.0,3.0,good explanation provided to substantiate the given points 
+R1,C7_en_C,C7,Llama-3.1-8B,English,5.0,3.0,4.0,4.0,5.0,Very well detailed response and adds easy to understand terminology to further aid understanding 
+R2,C4_ur_C,C4,Llama-3.1-8B,Urdu,2.0,3.0,2.0,2.0,2.0,I don't understand what this AI bot is trying to teach
+R2,M4_ur_C,M4,Llama-3.1-8B,Urdu,0.0,3.0,1.0,1.0,3.0,
+R2,M3_ur_A,M3,GPT-4o,Urdu,1.0,4.0,1.0,0.0,2.0,
+R2,M6_en_A,M6,GPT-4o,English,3.0,4.0,3.0,4.0,3.0,Its not very easily understandable and the teaching is really mid
+R2,C7_ur_B,C7,Llama-3.3-70B,Urdu,2.0,3.0,2.0,2.0,2.0,
+R2,M1_ur_C,M1,Llama-3.1-8B,Urdu,3.0,4.0,3.0,3.0,2.0,Some vocabulary is far too difficult 
+R2,C3_en_C,C3,Llama-3.1-8B,English,5.0,3.0,5.0,5.0,4.0,
+R2,M8_en_C,M8,Llama-3.1-8B,English,3.0,4.0,4.0,3.0,5.0,
+R2,M10_ur_C,M10,Llama-3.1-8B,Urdu,3.0,4.0,3.0,3.0,3.0,Grammatical error
+R2,M6_en_B,M6,Llama-3.3-70B,English,5.0,4.0,5.0,5.0,5.0,This is a good good response
+R2,M4_ur_B,M4,Llama-3.3-70B,Urdu,3.0,3.0,4.0,4.0,4.0,
+R2,C4_en_B,C4,Llama-3.3-70B,English,4.0,5.0,5.0,4.0,5.0,
+R2,C9_ur_B,C9,Llama-3.3-70B,Urdu,1.0,3.0,3.0,2.0,2.0,
+R2,M3_ur_C,M3,Llama-3.1-8B,Urdu,1.0,2.0,1.0,1.0,1.0,
+R2,M10_en_A,M10,GPT-4o,English,4.0,3.0,5.0,4.0,5.0,Grade fit is debatable 
+R2,P6_ur_C,P6,Llama-3.1-8B,Urdu,2.0,3.0,3.0,3.0,3.0,The start is super weird and robotic amd the whole tone of this passage is a bit off 
+R2,C7_en_B,C7,Llama-3.3-70B,English,5.0,4.0,5.0,5.0,5.0,
+R2,M4_en_C,M4,Llama-3.1-8B,English,4.0,4.0,5.0,4.0,5.0,
+R2,P3_en_C,P3,Llama-3.1-8B,English,5.0,2.0,5.0,4.0,5.0,"Fit for an eighth grader, not seventh"
+R2,C9_ur_A,C9,GPT-4o,Urdu,2.0,4.0,3.0,4.0,2.0,Some words are farr too difficult to Understand
+R2,M6_ur_A,M6,GPT-4o,Urdu,1.0,4.0,3.0,3.0,3.0,
+R2,M9_en_B,M9,Llama-3.3-70B,English,5.0,5.0,5.0,4.0,5.0,
+R2,M2_en_B,M2,Llama-3.3-70B,English,4.0,5.0,4.0,5.0,5.0,
+R2,M7_ur_B,M7,Llama-3.3-70B,Urdu,3.0,3.0,3.0,2.0,2.0,
+R2,P10_en_A,P10,GPT-4o,English,3.0,2.0,3.0,2.0,4.0,radioactivity is an eleventh grade topic 
+R2,P7_ur_B,P7,Llama-3.3-70B,Urdu,2.0,4.0,4.0,3.0,3.0,
+R2,C9_en_B,C9,Llama-3.3-70B,English,5.0,5.0,5.0,4.0,5.0,The addition of the summary for the response is a very good addition
+R2,P3_ur_B,P3,Llama-3.3-70B,Urdu,2.0,3.0,4.0,3.0,3.0,Clarity and some vocabulary can be made better 
+R2,M3_en_B,M3,Llama-3.3-70B,English,3.0,3.0,3.0,4.0,4.0,
+R2,P3_ur_A,P3,GPT-4o,Urdu,2.0,3.0,4.0,3.0,3.0,
+R2,P6_en_C,P6,Llama-3.1-8B,English,5.0,5.0,5.0,4.0,5.0,
+R2,P2_ur_C,P2,Llama-3.1-8B,Urdu,3.0,4.0,3.0,3.0,2.0,
+R2,P7_en_B,P7,Llama-3.3-70B,English,4.0,5.0,4.0,5.0,5.0,
+R2,M10_en_B,M10,Llama-3.3-70B,English,4.0,5.0,5.0,4.0,5.0,
+R2,P6_ur_A,P6,GPT-4o,Urdu,3.0,5.0,4.0,2.0,3.0,
+R2,M6_ur_B,M6,Llama-3.3-70B,Urdu,4.0,5.0,4.0,3.0,3.0,
+R2,P5_en_C,P5,Llama-3.1-8B,English,5.0,4.0,3.0,4.0,5.0,Should explain the laws further rather than plainly stating them
+R2,M10_ur_A,M10,GPT-4o,Urdu,4.0,4.0,4.0,3.0,4.0,
+R2,P3_en_A,P3,GPT-4o,English,3.0,2.0,4.0,3.0,4.0,
+R2,P3_en_B,P3,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,5.0,Amazing response
+R2,M4_en_B,M4,Llama-3.3-70B,English,5.0,5.0,5.0,4.0,4.0,Vocabulary is a bit difficult 
+R2,C10_ur_A,C10,GPT-4o,Urdu,2.0,1.0,3.0,2.0,2.0,"Not at all in the curriculum designed for a tenth grader, way higher level"
+R2,C6_ur_C,C6,Llama-3.1-8B,Urdu,2.0,3.0,3.0,3.0,2.0,The start is super weird it makes no sense amd its so insanely robotic amd mechanical in a very not good way
+R2,P2_en_C,P2,Llama-3.1-8B,English,5.0,3.0,4.0,4.0,5.0,The tone of the response is perfect 
+R2,P7_ur_C,P7,Llama-3.1-8B,Urdu,2.0,4.0,3.0,2.0,2.0,
+R2,P2_en_A,P2,GPT-4o,English,4.0,2.0,4.0,3.0,4.0,Too much for an eight grader
+R2,C10_en_C,C10,Llama-3.1-8B,English,4.0,5.0,5.0,4.0,5.0,
+R2,C10_en_A,C10,GPT-4o,English,5.0,5.0,5.0,4.0,4.0,
+R2,M3_en_C,M3,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,Good response
+R2,C7_ur_C,C7,Llama-3.1-8B,Urdu,3.0,5.0,3.0,3.0,4.0,
+R2,P2_ur_B,P2,Llama-3.3-70B,Urdu,2.0,4.0,3.0,2.0,3.0,
+R2,C4_ur_B,C4,Llama-3.3-70B,Urdu,3.0,4.0,3.0,3.0,3.0,
+R2,M9_ur_B,M9,Llama-3.3-70B,Urdu,2.0,4.0,3.0,3.0,3.0,
+R2,C10_en_B,C10,Llama-3.3-70B,English,4.0,5.0,4.0,4.0,5.0,Summary could be added
+R2,M8_ur_C,M8,Llama-3.1-8B,Urdu,4.0,5.0,4.0,3.0,3.0,
+R2,C7_en_C,C7,Llama-3.1-8B,English,4.0,4.0,5.0,4.0,4.0,
+R2,M3_en_A,M3,GPT-4o,English,4.0,5.0,4.0,5.0,3.0,Sentences are too long amd awkward
+R2,M10_ur_B,M10,Llama-3.3-70B,Urdu,3.0,5.0,4.0,3.0,3.0,
+R2,C2_en_A,C2,GPT-4o,English,4.0,5.0,4.0,5.0,4.0,
+R2,C10_ur_C,C10,Llama-3.1-8B,Urdu,3.0,5.0,3.0,2.0,3.0,
+R2,P2_en_B,P2,Llama-3.3-70B,English,5.0,4.0,5.0,4.0,5.0,
+R2,P3_ur_C,P3,Llama-3.1-8B,Urdu,3.0,5.0,5.0,4.0,4.0,
+R2,C6_en_C,C6,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,Really good response with the explanation example summary combination 
+R2,P10_ur_A,P10,GPT-4o,Urdu,3.0,4.0,5.0,4.0,5.0,
+R2,C10_ur_B,C10,Llama-3.3-70B,Urdu,3.0,5.0,3.0,3.0,4.0,
+R2,C4_en_C,C4,Llama-3.1-8B,English,5.0,5.0,4.0,4.0,4.0,
+R2,M10_en_C,M10,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R2,P5_ur_C,P5,Llama-3.1-8B,Urdu,3.0,5.0,4.0,4.0,3.0,Starting urdu doesnt make any sense
+R2,P7_en_C,P7,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R2,M1_en_C,M1,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R2,C2_ur_A,C2,GPT-4o,Urdu,3.0,5.0,3.0,3.0,4.0,
+R2,P2_ur_A,P2,GPT-4o,Urdu,2.0,4.0,3.0,3.0,2.0,
+R2,M3_ur_B,M3,Llama-3.3-70B,Urdu,2.0,5.0,4.0,3.0,3.0,Make the whole thing a bit more clear
+R2,C6_en_A,C6,GPT-4o,English,5.0,5.0,5.0,5.0,5.0,Repeated 
+R2,P6_en_A,P6,GPT-4o,English,5.0,5.0,4.0,5.0,5.0,Repeated 
+R2,M2_ur_B,M2,Llama-3.3-70B,Urdu,3.0,5.0,5.0,4.0,4.0,
+R2,C9_en_A,C9,GPT-4o,English,5.0,5.0,5.0,5.0,5.0,
+R2,C3_ur_C,C3,Llama-3.1-8B,Urdu,3.0,5.0,4.0,2.0,3.0,Difficult wording
+R2,M7_en_B,M7,Llama-3.3-70B,English,3.0,3.0,5.0,3.0,3.0,"Vocabulary like polynomial, binomial etc is a bit difficult "
+R2,C6_ur_A,C6,GPT-4o,Urdu,4.0,3.0,4.0,3.0,3.0,
+R3,P5_en_B,P5,Llama-3.3-70B,English,4.0,5.0,4.0,4.0,5.0,
+R3,M8_en_A,M8,GPT-4o,English,4.0,4.0,5.0,5.0,5.0,
+R3,P8_ur_B,P8,Llama-3.3-70B,Urdu,3.0,4.0,3.0,3.0,2.0,Theres hindi im there too its only supposed to be urdu
+R3,C9_ur_A,C9,GPT-4o,Urdu,3.0,5.0,3.0,3.0,3.0,Flow of the text could be made a lot better
+R3,P8_en_B,P8,Llama-3.3-70B,English,5.0,5.0,5.0,4.0,4.0,
+R3,M6_en_B,M6,Llama-3.3-70B,English,4.0,5.0,5.0,5.0,4.0,
+R3,P7_en_C,P7,Llama-3.1-8B,English,5.0,4.0,5.0,4.0,5.0,Example could be better 
+R3,C5_ur_B,C5,Llama-3.3-70B,Urdu,2.0,4.0,4.0,3.0,2.0,Make it make semse grammaticallY
+R3,P3_en_C,P3,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,4.0,
+R3,M5_ur_A,M5,GPT-4o,Urdu,4.0,5.0,4.0,3.0,3.0,Formatting is all
+R3,C4_ur_A,C4,GPT-4o,Urdu,4.0,5.0,5.0,4.0,4.0,
+R3,C5_en_B,C5,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,5.0,
+R3,C3_ur_A,C3,GPT-4o,Urdu,3.0,2.0,3.0,3.0,3.0,Sixth grader wont know detail about lysosomes and all
+R3,C7_ur_A,C7,GPT-4o,Urdu,4.0,5.0,5.0,4.0,3.0,Vocab should be easier
+R3,P10_en_B,P10,Llama-3.3-70B,English,4.0,2.0,5.0,3.0,2.0,Eleventh curriculum 
+R3,C10_ur_B,C10,Llama-3.3-70B,Urdu,2.0,5.0,4.0,3.0,2.0,Vocab should be easier
+R3,M10_ur_B,M10,Llama-3.3-70B,Urdu,4.0,5.0,4.0,3.0,3.0,
+R3,C9_en_A,C9,GPT-4o,English,4.0,4.0,5.0,5.0,5.0,
+R3,C1_ur_C,C1,Llama-3.1-8B,Urdu,3.0,5.0,5.0,4.0,4.0,
+R3,C2_en_B,C2,Llama-3.3-70B,English,5.0,5.0,5.0,4.0,4.0,
+R3,M2_en_B,M2,Llama-3.3-70B,English,4.0,3.0,4.0,4.0,3.0,
+R3,M3_ur_A,M3,GPT-4o,Urdu,3.0,5.0,4.0,4.0,3.0,
+R3,P9_ur_C,P9,Llama-3.1-8B,Urdu,4.0,5.0,5.0,3.0,4.0,
+R3,P9_en_A,P9,GPT-4o,English,4.0,5.0,4.0,4.0,5.0,
+R3,P7_ur_C,P7,Llama-3.1-8B,Urdu,5.0,5.0,5.0,4.0,4.0,
+R3,C6_en_A,C6,GPT-4o,English,5.0,5.0,5.0,5.0,5.0,Good response
+R3,C1_en_C,C1,Llama-3.1-8B,English,4.0,3.0,5.0,4.0,3.0,Eight grade curriculum due to the equation mentioned 
+R3,C1_ur_A,C1,GPT-4o,Urdu,4.0,5.0,5.0,5.0,4.0,
+R3,P6_ur_B,P6,Llama-3.3-70B,Urdu,5.0,5.0,5.0,5.0,5.0,
+R3,P9_en_B,P9,Llama-3.3-70B,English,5.0,5.0,4.0,5.0,5.0,Summary should be added
+R3,C7_ur_C,C7,Llama-3.1-8B,Urdu,3.0,5.0,4.0,4.0,3.0,
+R3,M2_ur_B,M2,Llama-3.3-70B,Urdu,3.0,5.0,4.0,3.0,3.0,
+R3,C9_ur_B,C9,Llama-3.3-70B,Urdu,4.0,5.0,3.0,3.0,3.0,
+R3,P1_en_B,P1,Llama-3.3-70B,English,5.0,5.0,4.0,5.0,5.0,Summary!
+R3,C7_en_A,C7,GPT-4o,English,4.0,5.0,5.0,5.0,5.0,
+R3,P5_ur_A,P5,GPT-4o,Urdu,3.0,5.0,4.0,4.0,3.0,
+R3,P9_ur_B,P9,Llama-3.3-70B,Urdu,2.0,4.0,3.0,2.0,1.0,"Major major glitch and fess up, it started going ballistic in other languages mid text, only supposed to be urdu"
+R3,P8_en_A,P8,GPT-4o,English,4.0,2.0,3.0,4.0,3.0,A bit hard to understand and is in the curriculum for eleventh grade
+R3,P2_en_B,P2,Llama-3.3-70B,English,5.0,4.0,5.0,5.0,5.0,
+R3,P9_ur_A,P9,GPT-4o,Urdu,3.0,4.0,3.0,3.0,2.0,
+R3,M1_ur_A,M1,GPT-4o,Urdu,3.0,3.0,4.0,3.0,3.0,
+R3,M7_ur_A,M7,GPT-4o,Urdu,2.0,5.0,4.0,3.0,3.0,
+R3,C7_en_C,C7,Llama-3.1-8B,English,3.0,5.0,3.0,4.0,3.0,Overall response needs improvement 
+R3,M9_ur_B,M9,Llama-3.3-70B,Urdu,3.0,5.0,3.0,3.0,2.0,
+R3,P5_en_A,P5,GPT-4o,English,5.0,5.0,5.0,5.0,5.0,
+R3,C3_en_A,C3,GPT-4o,English,4.0,5.0,5.0,4.0,4.0,
+R3,C3_ur_C,C3,Llama-3.1-8B,Urdu,3.0,5.0,3.0,3.0,2.0,
+R3,C5_ur_A,C5,GPT-4o,Urdu,4.0,5.0,5.0,4.0,3.0,
+R3,M7_en_A,M7,GPT-4o,English,5.0,3.0,5.0,5.0,5.0,Quadratic equations amd everything are for tenth graders not ninth
+R3,M6_ur_C,M6,Llama-3.1-8B,Urdu,4.0,4.0,3.0,3.0,3.0,
+R3,M6_ur_B,M6,Llama-3.3-70B,Urdu,4.0,5.0,5.0,5.0,4.0,
+R3,M3_en_A,M3,GPT-4o,English,4.0,5.0,4.0,4.0,4.0,
+R3,M10_en_B,M10,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,4.0,
+R3,M6_en_C,M6,Llama-3.1-8B,English,5.0,5.0,5.0,5.0,5.0,
+R3,P2_ur_B,P2,Llama-3.3-70B,Urdu,4.0,5.0,4.0,3.0,4.0,
+R3,C3_en_C,C3,Llama-3.1-8B,English,4.0,3.0,4.0,2.0,3.0,"Lesser detail for the names of the components and some are unnecessary to know for a sixth grader, make sure not to intimidate them with stuff they dont know and aren’t supposed to"
+R3,M8_en_C,M8,Llama-3.1-8B,English,4.0,5.0,5.0,4.0,4.0,
+R3,C4_en_A,C4,GPT-4o,English,4.0,3.0,4.0,4.0,5.0,
+R3,M5_en_A,M5,GPT-4o,English,4.0,3.0,4.0,4.0,4.0,Ninth grade topic
+R3,M7_ur_C,M7,Llama-3.1-8B,Urdu,3.0,5.0,4.0,3.0,3.0,
+R3,C6_ur_A,C6,GPT-4o,Urdu,3.0,4.0,3.0,3.0,2.0,
+R3,M8_ur_A,M8,GPT-4o,Urdu,2.0,5.0,4.0,3.0,3.0,
+R3,P8_ur_A,P8,GPT-4o,Urdu,3.0,5.0,3.0,4.0,3.0,
+R3,M8_ur_C,M8,Llama-3.1-8B,Urdu,5.0,5.0,5.0,3.0,4.0,
+R3,P6_en_B,P6,Llama-3.3-70B,English,4.0,5.0,5.0,5.0,5.0,
+R3,P10_en_C,P10,Llama-3.1-8B,English,3.0,3.0,4.0,3.0,4.0,Radioactivity is a topic for eleventh grade
+R3,M1_en_A,M1,GPT-4o,English,4.0,5.0,5.0,4.0,4.0,
+R3,P3_ur_C,P3,Llama-3.1-8B,Urdu,5.0,5.0,3.0,3.0,4.0,
+R3,C5_en_A,C5,GPT-4o,English,5.0,3.0,5.0,3.0,4.0,Too much detail for a sixth grader
+R3,P10_ur_C,P10,Llama-3.1-8B,Urdu,4.0,5.0,4.0,3.0,4.0,
+R3,P5_ur_B,P5,Llama-3.3-70B,Urdu,3.0,4.0,4.0,3.0,3.0,
+R3,C10_en_B,C10,Llama-3.3-70B,English,4.0,5.0,5.0,5.0,5.0,
+R3,C9_en_B,C9,Llama-3.3-70B,English,5.0,5.0,5.0,5.0,5.0,
+R3,M7_en_C,M7,Llama-3.1-8B,English,5.0,5.0,4.0,5.0,5.0,
+R3,C1_en_A,C1,GPT-4o,English,5.0,4.0,5.0,5.0,5.0,Could also be in sixth grade curriculum 
+R3,P9_en_C,P9,Llama-3.1-8B,English,4.0,5.0,4.0,5.0,5.0,
+R3,P1_ur_B,P1,Llama-3.3-70B,Urdu,3.0,5.0,4.0,3.0,2.0,"It starts going off in other languages mid text, needs to remain in urdu throughout the response"
+R3,C2_ur_B,C2,Llama-3.3-70B,Urdu,4.0,5.0,4.0,5.0,4.0,
+R3,M9_en_B,M9,Llama-3.3-70B,English,5.0,5.0,4.0,5.0,5.0,Summary!
+R3,P10_ur_B,P10,Llama-3.3-70B,Urdu,3.0,5.0,4.0,3.0,3.0,

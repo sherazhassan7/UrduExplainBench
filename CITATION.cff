@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "UrduExplainBench: Urdu vs English explanation quality on Pakistan's Grade 6-10 curriculum"
+type: dataset
+authors:
+  - family-names: Hassan
+    given-names: Sheraz
+version: 1.0.0
+date-released: 2026-10-12
+license: CC-BY-4.0
+keywords:
+  - Urdu
+  - large language models
+  - LLM evaluation
+  - low-resource languages
+  - education
+  - benchmark

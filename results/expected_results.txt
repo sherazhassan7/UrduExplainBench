@@ -1,0 +1,21 @@
+Explanation quality, Urdu vs English (90 topic-model pairs)
+  English mean 4.44, Urdu mean 3.47
+  gap (Urdu minus English) -0.97, 95% CI -1.14 to -0.79
+  Wilcoxon W = 191.5, p = 3.1e-13
+  Urdu lower in 76, higher in 11, tied in 3
+
+Gap by model
+  GPT-4o          -0.67
+  Llama-3.1-8B    -1.15
+  Llama-3.3-70B   -1.10
+
+Foreign-script contamination in Urdu outputs, all four runs
+  GPT-4o          0/120
+  Llama-3.3-70B   30/120
+  Llama-3.1-8B    3/120
+  Llama-3.3-70B vs Llama-3.1-8B: Fisher's exact p = 2.5e-07
+
+Factual errors (0 = none, 1 = minor, 2 = major)
+  English  3 errors (2 major, 1 minor)
+  Urdu     6 errors (3 major, 3 minor)
+  McNemar exact p = 0.45
