@@ -1,12 +1,14 @@
 # UrduExplainBench
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23592500.svg)](https://doi.org/10.5281/zenodo.23592500)
+
 A small benchmark for checking how well language models explain school science and maths in Urdu compared with English.
 
 Every topic comes from Pakistan's Grade 6 to 10 textbooks (Punjab Curriculum and Textbook Board), and every Urdu explanation is paired with an English one written from the same prompt. Native Urdu speakers, one of them a working Urdu-medium teacher, scored each explanation by hand.
 
 ## Why I made this
 
-Tens of millions of Pakistani students learn in Urdu, and AI tutors are often pitched as a way to help students without access to good teaching. Most Urdu benchmarks test what a model knows with multiple-choice questions. I wanted to see whether a model can actually *explain* a topic in Urdu the way a classroom needs, and where it falls short compared with English.
+I grew up in a village near Vehari, and later spent time tutoring kids from families who couldn't afford extra help. Most of them were learning in Urdu. So when AI tutors started being pitched as the fix for students like them, I wanted to know whether that holds up in the language they actually study in. Most Urdu benchmarks use multiple-choice questions, which show what a model knows, not whether it can explain something to a twelve-year-old the way their textbook does. So I built this: the same topics and the same prompts in Urdu and English, checked by people who read and teach Urdu.
 
 ## What's in here
 
@@ -73,7 +75,7 @@ Code is MIT licensed. Data is CC BY 4.0, so you can use it with credit. Model ou
 
 If you use this, please cite:
 
-> Hassan, S. (2026). *UrduExplainBench: Urdu vs English explanation quality on Pakistan's Grade 6–10 curriculum* (Version 1.0.0) [Data set].
+> Hassan, S. (2026). *UrduExplainBench: Urdu vs English explanation quality on Pakistan's Grade 6–10 curriculum* (Version 1.0.0) [Data set]. https://doi.org/10.5281/zenodo.23592500
 
 The accompanying paper, "Where Language Models Fail Urdu-Medium Students: A Curriculum-Anchored Evaluation of Science and Mathematics Explanations", is currently under review.
 
