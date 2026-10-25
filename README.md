@@ -6,6 +6,8 @@ A small benchmark for checking how well language models explain school science a
 
 Every topic comes from Pakistan's Grade 6 to 10 textbooks (Punjab Curriculum and Textbook Board), and every Urdu explanation is paired with an English one written from the same prompt. Native Urdu speakers, one of them a working Urdu-medium teacher, scored each explanation by hand.
 
+Built by Sheraz Hassan as a student researcher at the Center for Language Engineering (CLE), Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET) Lahore.
+
 ## Why I made this
 
 I grew up in a village near Vehari, and later spent time tutoring kids from families who couldn't afford extra help. Most of them were learning in Urdu. So when AI tutors started being pitched as the fix for students like them, I wanted to know whether that holds up in the language they actually study in. Most Urdu benchmarks use multiple-choice questions, which show what a model knows, not whether it can explain something to a twelve-year-old the way their textbook does. So I built this: the same topics and the same prompts in Urdu and English, checked by people who read and teach Urdu.
@@ -81,4 +83,4 @@ The accompanying paper, "Where Language Models Fail Urdu-Medium Students: A Curr
 
 ## Thanks
 
-To the three volunteer raters for their careful work, and to the Urdu-medium teacher who corrected the terminology rubric before rating began.
+To Prof. Dr. Sarmad Hussain and the Center for Language Engineering at KICS, UET Lahore, for supervising and supporting this work; to Ms Tahira Rizwan for her mentorship; to the three volunteer raters for their careful work; and to the Urdu-medium teacher who corrected the terminology rubric before rating began.

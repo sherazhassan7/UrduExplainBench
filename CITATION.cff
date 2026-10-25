@@ -5,6 +5,7 @@ type: dataset
 authors:
   - family-names: Hassan
     given-names: Sheraz
+    affiliation: "Center for Language Engineering, Al-Khawarizmi Institute of Computer Science, University of Engineering and Technology, Lahore"
 version: 1.0.0
 doi: 10.5281/zenodo.23592500
 date-released: 2026-10-12
