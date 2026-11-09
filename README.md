@@ -78,7 +78,7 @@ Code is MIT licensed. Data is CC BY 4.0, so you can use it with credit. Model ou
 
 > Hassan, S. (2026). *UrduExplainBench: Urdu vs English explanation quality on Pakistan's Grade 6–10 curriculum* (Version 1.0.0) [Data set]. https://doi.org/10.5281/zenodo.23592500
 
-The accompanying paper, "Where Language Models Fail Urdu-Medium Students: A Curriculum-Anchored Evaluation of Science and Mathematics Explanations", is under review.
+The accompanying paper, "Where Language Models Fail Urdu-Medium Students: A Curriculum-Anchored Evaluation of Science and Mathematics Explanations", has been accepted for publication in the National High School Journal of Science (NHSJS).
 
 ## Thanks
 
